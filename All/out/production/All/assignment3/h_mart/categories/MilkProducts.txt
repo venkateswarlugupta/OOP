@@ -1,0 +1,2 @@
+Creamy Milk::HM1232::Heritage::2020::11::11::0::1::25::100::quality-90%
+Normal Milk::HM1233::Arokya::2020::11::11::0::1::23::120::quality-88%

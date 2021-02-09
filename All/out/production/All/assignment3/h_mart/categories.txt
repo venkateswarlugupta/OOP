@@ -1,0 +1,6 @@
+FoodAndBeverages
+Cosmetics
+BabyProducts
+HomeAppliances
+DailyNeeds
+MilkProducts

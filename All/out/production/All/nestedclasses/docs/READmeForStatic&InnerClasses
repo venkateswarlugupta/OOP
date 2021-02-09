@@ -1,0 +1,24 @@
+Static Inner Class
+
+class OuterClass {
+    ...
+    static class StaticNestedClass {
+        ...
+    }
+    class InnerClass {
+        ...
+    }
+}
+
+OuterClass.StaticNestedClass nestedObject = new OuterClass.StaticNestedClass();
+
+Inner Class
+
+class OuterClass {
+    ...
+    class InnerClass {
+        ...
+    }
+}
+
+OuterClass.InnerClass innerObject = outerObject.new InnerClass();
